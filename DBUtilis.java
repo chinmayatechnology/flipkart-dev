@@ -1,3 +1,5 @@
+Stace command add
+
 Master branch
 
 Tested.
