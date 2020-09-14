@@ -1,5 +1,3 @@
-Updated
-
 Tested.
 
 Java
